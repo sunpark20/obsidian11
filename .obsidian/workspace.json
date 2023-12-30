@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "c47acd31df6529c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c0e4ccec7085f00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6cc53a3016ea748",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "643d0e041dfec93b",
+    "type": "split",
+    "children": [
+      {
+        "id": "101e07a7f9324964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27f062cca8b8a110",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4fc790237a03f5c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee22bd2d83858ac1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "22bc391248b366aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "0579640d2666ef29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "344e768b742061c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81d07c27105731fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9df6409d8e0c151d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09217c560359eba8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "1cdb76aaeff027c3",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 579.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "kr-book-info-plugin:Add Book Info": false
+    }
+  },
+  "active": "d6cc53a3016ea748",
+  "lastOpenFiles": [
+    "obsidian11/README.md",
+    "obsidian11",
+    "건강상식/omega3.md",
+    "건강상식/올리브유.md",
+    "Screenshot 2023-12-22 at 3.05.39 PM.png",
+    "건강상식/vitamin D.md",
+    "건강상식/vitamin C.md",
+    "건강상식/지용성 영양소.md",
+    "건강상식/수용성 영양소.md",
+    "건강상식/위에좋은 음식.md",
+    "특별하게 살기/유튜브-시간관리잘하는법(민님).md",
+    "독서/환자 혁명.md",
+    "독서/독서리스트.md",
+    "독서/도시와 그 불확실한 벽.md",
+    "독서/기사단장 죽이기.md",
+    "데일리노트/2023-12-11.md",
+    "데일리노트/2023-12-13.md",
+    "데일리노트/2023-11-22.md",
+    "MBR2GPT.md",
+    "기사단장 죽이기 1 - 무라카미 하루키.md",
+    "독서/무제 파일.md",
+    "종의기원 2(중학생이 보는)(중학생 독후감 따라잡기 117) - 찰스다윈.md",
+    "\".md",
+    "2023-12-16.md",
+    "단축키/한글 단축키.md",
+    "2023-12-03.md",
+    "2023-11-28.md",
+    "데이플래너",
+    "2023-12-02.md",
+    "obsidian"
+  ]
+}
