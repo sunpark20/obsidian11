@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c0e4ccec7085f00",
+        "id": "b4322192c0c66851",
         "type": "tabs",
         "children": [
           {
-            "id": "d6cc53a3016ea748",
+            "id": "19c306b55310c0ef",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "22bc391248b366aa",
@@ -151,16 +150,16 @@
       "kr-book-info-plugin:Add Book Info": false
     }
   },
-  "active": "d6cc53a3016ea748",
+  "active": "19c306b55310c0ef",
   "lastOpenFiles": [
+    "건강상식/지용성 영양소.md",
+    "건강상식/omega3.md",
     "obsidian11/README.md",
     "obsidian11",
-    "건강상식/omega3.md",
     "건강상식/올리브유.md",
     "Screenshot 2023-12-22 at 3.05.39 PM.png",
     "건강상식/vitamin D.md",
     "건강상식/vitamin C.md",
-    "건강상식/지용성 영양소.md",
     "건강상식/수용성 영양소.md",
     "건강상식/위에좋은 음식.md",
     "특별하게 살기/유튜브-시간관리잘하는법(민님).md",
